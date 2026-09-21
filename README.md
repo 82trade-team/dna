@@ -1,15 +1,15 @@
-﻿# 82TRADE Trader DNA Stable QR Entry
+# 82TRADE Trader DNA Stable QR Entry
 
 Canonical printed QR entry:
 
-https://82trade-team.github.io/dna/
+`https://82trade-team.github.io/dna/`
 
-This repository contains only a tiny redirect gateway. It intentionally does not contain Trader DNA source code.
+This URL is the permanent unified entry for printed/physical QR codes. The QR itself must not change between visual releases.
 
 Current target:
-https://zhuo74451-art.github.io/trader-dna-live/
 
-To move Trader DNA later, update the target URL in `index.html`. Printed QR codes do not need to change.
+`https://zhuo74451-art.github.io/trader-dna-site/scan01.html`
 
-Do not replace this repository or change the published URL after print materials are produced.
+The gateway preserves incoming query parameters and fragments. To move Trader DNA later, update only the target URL in `index.html`; previously printed QR codes remain valid.
 
+Do not replace this repository, rename the Pages path, or repurpose `/dna/` for another product.
